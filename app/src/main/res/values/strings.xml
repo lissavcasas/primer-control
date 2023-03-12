@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Mi Primer Control</string>
+
+    <string name="nombre_cliente">Nombre Cliente</string>
+    <string name="error_campo_requerido">Campo requerido</string>
+    <string name="error_campo_alfanumerico">El campo debe ser alfanumérico</string>
+
+    <string name="producto">Producto</string>
+
+    <string name="no_cliente">No Es Cliente</string>
+    <string name="si_cliente">Es Cliente</string>
+
+    <string name="calcular">Calcular</string>
+    <string name="resultado_">Resultado: \nCliente: %s \nProducto: %s \nEs Cliente: %s \nPrecio: %s \nDescuento: %s \nTotal: %s</string>
+</resources>

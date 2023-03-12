@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="productos">
+        <item>Producto A</item>
+        <item>Producto B</item>
+        <item>Producto C</item>
+        <item>Producto D</item>
+    </string-array>
+</resources>
